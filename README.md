@@ -1,4 +1,4 @@
-# basic_RL_Q-learning
+# shortest_path_Q-learning
 
 This is a very simple example of reinforcement learning using Q-learning where an agent is trained to find the shortest path between 2 vertices in the following directed graph: 
 
