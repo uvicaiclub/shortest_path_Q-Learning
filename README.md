@@ -1,7 +1,7 @@
 # basic_RL_Q-learning
 
-This is a very simple example of reinforcement learning using Q-learning where an agent is trained to find the shortest path from vertex 1 to vertex 9 in the following undirected graph: 
+This is a very simple example of reinforcement learning using Q-learning where an agent is trained to find the shortest path between 2 vertices in the following directed graph: 
 
-![](images/RL_Q-learning_graph.png)
+![](images/RL_Q-learning_digraph2.png)
 
 Credit: https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-q-learning
